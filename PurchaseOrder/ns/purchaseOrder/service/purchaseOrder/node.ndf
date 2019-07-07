@@ -34,7 +34,9 @@
       <value name="modifiable">true</value>
     </record>
   </record>
-  <value name="node_comment">This is the facade of Purchase Order Service which will be responsible for receiving PO messages from external customers</value>
+  <value name="node_comment">This is the facade of Purchase Order Service which will be responsible for receiving PO messages from external customers
+
+Testing again</value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
   <value name="prefetch">no</value>
