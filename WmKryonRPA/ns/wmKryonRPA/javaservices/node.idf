@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">wmKryonRPA.javaservices</value>
+  <value name="is_public">false</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgUHJvcGVydGllcyBnZXRQcm9wZXJ0aWVzKFN0cmluZyBmaWxlTmFtZSl7
+CglGaWxlIHByb3BlcnRpZXNGaWxlOwoJUHJvcGVydGllcyBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVz
+KCk7Cglwcm9wZXJ0aWVzRmlsZSA9IG5ldyBGaWxlKFNlcnZlci5nZXRSZXNvdXJjZXMoKS5nZXRQ
+YWNrYWdlQ29uZmlnRGlyKCJXbUtyeW9uUlBBIiksIGZpbGVOYW1lKTsJICAgIAoJCiAgICB0cnkg
+ewkJICAgICAgICAKICAgICAgICBGaWxlSW5wdXRTdHJlYW0gZmlzID0gbmV3IEZpbGVJbnB1dFN0
+cmVhbShwcm9wZXJ0aWVzRmlsZSk7CiAgICAgICAgcHJvcHMubG9hZChmaXMpOwogICAgICAgIGZp
+cy5jbG9zZSgpOwogICAgfQogICAgY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgIAlTZXJ2ZXJB
+UEkubG9nRXJyb3IoKFRocm93YWJsZSllKTsJICAgIAkKICAgIH0KICAgIAogICAgcmV0dXJuIHBy
+b3BzOwp9Cgpwcml2YXRlIHN0YXRpYyB2b2lkIHNldFByb3BlcnRpZXMoUHJvcGVydGllcyBwcm9w
+cyl7CglGaWxlIHByb3BlcnRpZXNGaWxlID0gbmV3IEZpbGUoU2VydmVyLmdldFJlc291cmNlcygp
+LmdldFBhY2thZ2VDb25maWdEaXIoIldtS3J5b25SUEEiKSwgIldlYkFQSUNvbm5lY3Rpb24ucHJv
+cGVydGllcyIpOwogICAgCiAgICB0cnkgewogICAgICAgIAogICAgICAgIEZpbGVPdXRwdXRTdHJl
+YW0gZm9zID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0ocHJvcGVydGllc0ZpbGUpOwogICAgICAgIHBy
+b3BzLnN0b3JlKGZvcywgIldlYkFQSUNvbm5lY3Rpb24iKTsKICAgICAgICBmb3MuY2xvc2UoKTsK
+ICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgU2VydmVyQVBJLmxvZ0Vycm9y
+KChUaHJvd2FibGUpZSk7CiAgICAgICAKICAgIH0KICAgIAkJCgkKCQp9CgpzdGF0aWMgU3RyaW5n
+IGdldFBhc3N3b3JkRnJvbU9QTSgpIHsKICAgIFN0cmluZyByZXRTdHJpbmcgPSAiIjsKICAgIHRy
+eSB7CiAgICAgICAgV21TZWN1cmVTdHJpbmcgY3JlZCA9IE91dGJvdW5kUGFzc3dvcmRNYW5hZ2Vy
+LnJldHJpZXZlUGFzc3dvcmQoIndtLmlzLndta3J5b25ycGEud2ViYXBpdXNlciIpOwogICAgICAg
+IGlmIChjcmVkID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuICJtYW5hZ2UiOwogICAgICAg
+IH0KICAgICAgICByZXRTdHJpbmcgPSBjcmVkLnRvU3RyaW5nKCk7CiAgICB9CiAgICBjYXRjaCAo
+RXhjZXB0aW9uIGUpIHsKICAgIAlTZXJ2ZXJBUEkubG9nRXJyb3IoKFRocm93YWJsZSllKTsKICAg
+IH0KICAgIHJldHVybiByZXRTdHJpbmc7Cn0KCnN0YXRpYyB2b2lkIHNldFBhc3N3b3JkVG9PUE0o
+U3RyaW5nIHBhc3N3b3JkKSB7CiAgICB0cnkgewogICAgICAgIE91dGJvdW5kUGFzc3dvcmRNYW5h
+Z2VyLnN0b3JlUGFzc3dvcmQoIndtLmlzLndta3J5b25ycGEud2ViYXBpdXNlciIsIChXbVNlY3Vy
+ZVN0cmluZyluZXcgV21TZWN1cmVTdHJpbmcocGFzc3dvcmQpKTsKICAgIH0KICAgIGNhdGNoIChF
+eGNlcHRpb24gZSkgewogICAgCVNlcnZlckFQSS5sb2dFcnJvcigoVGhyb3dhYmxlKWUpOwogICAg
+fQp9Cgk=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.util.security.WmSecureString</value>
+    <value>java.io.File</value>
+    <value>java.io.FileInputStream</value>
+    <value>java.io.FileOutputStream</value>
+    <value>java.io.IOException</value>
+    <value>java.util.Properties</value>
+    <value>com.wm.app.b2b.server.OutboundPasswordManager</value>
+    <value>com.wm.app.b2b.server.Server</value>
+    <value>com.wm.app.b2b.server.ServerAPI</value>
+  </array>
+</Values>
